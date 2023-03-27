@@ -1,5 +1,5 @@
 {
-      "idLista1": [
+      "indice1": [
         {
           "idLista": 1,
           "titulo": "Acervo",
@@ -27,9 +27,7 @@
           "descricao": "18/09/2022",
           "imagem": "https://ingest.educadorafm.ba.gov.br/upload/img/641e019675f75.png",
           "audio": "uploads/programs/22/edition/352/audio/1671533914_BAIAO DE DOIS - 18.09.2022.mp3"
-        }
-      ],
-      "idLista2": [
+        },
         {
           "idLista": 2,
           "titulo": "Acervo",
@@ -57,9 +55,7 @@
           "descricao": "18/09/2022",
           "imagem": "https://ingest.educadorafm.ba.gov.br/upload/img/641e019675f75.png",
           "audio": "uploads/programs/22/edition/352/audio/1671533914_BAIAO DE DOIS - 18.09.2022.mp3"
-        }
-      ],
-      "idLista3": [
+        },
         {
           "idLista": 3,
           "titulo": "Acervo",
@@ -87,9 +83,7 @@
           "descricao": "18/09/2022",
           "imagem": "https://ingest.educadorafm.ba.gov.br/upload/img/641e019675f75.png",
           "audio": "uploads/programs/22/edition/352/audio/1671533914_BAIAO DE DOIS - 18.09.2022.mp3"
-        }
-      ],
-      "idLista5": [
+        },
         {
           "idLista": 5,
           "titulo": "Acervo",
@@ -117,9 +111,7 @@
           "descricao": "18/09/2022",
           "imagem": "https://ingest.educadorafm.ba.gov.br/upload/img/641e019675f75.png",
           "audio": "uploads/programs/22/edition/352/audio/1671533914_BAIAO DE DOIS - 18.09.2022.mp3"
-        }
-      ],
-      "idLista6": [
+        },
         {
           "idLista": 6,
           "titulo": "Acervo",
@@ -149,7 +141,7 @@
           "audio": "uploads/programs/22/edition/352/audio/1671533914_BAIAO DE DOIS - 18.09.2022.mp3"
         }
       ],
-      "idLista7": [
+      "indice2": [
         {
           "idLista": 7,
           "titulo": "Acervo",
@@ -177,9 +169,7 @@
           "descricao": "18/09/2022",
           "imagem": "https://ingest.educadorafm.ba.gov.br/upload/img/641e019675f75.png",
           "audio": "uploads/programs/22/edition/352/audio/1671533914_BAIAO DE DOIS - 18.09.2022.mp3"
-        }
-      ],
-      "idLista8": [
+        },
         {
           "idLista": 8,
           "titulo": "Acervo",
@@ -207,9 +197,7 @@
           "descricao": "18/09/2022",
           "imagem": "https://ingest.educadorafm.ba.gov.br/upload/img/641e019675f75.png",
           "audio": "uploads/programs/22/edition/352/audio/1671533914_BAIAO DE DOIS - 18.09.2022.mp3"
-        }
-      ],
-      "idLista9": [
+        },
         {
           "idLista": 9,
           "titulo": "Acervo",
@@ -237,9 +225,7 @@
           "descricao": "18/09/2022",
           "imagem": "https://ingest.educadorafm.ba.gov.br/upload/img/641e019675f75.png",
           "audio": "uploads/programs/22/edition/352/audio/1671533914_BAIAO DE DOIS - 18.09.2022.mp3"
-        }
-      ],
-      "idLista10": [
+        },
         {
           "idLista": 10,
           "titulo": "Acervo",
@@ -267,9 +253,7 @@
           "descricao": "18/09/2022",
           "imagem": "https://ingest.educadorafm.ba.gov.br/upload/img/641e019675f75.png",
           "audio": "uploads/programs/22/edition/352/audio/1671533914_BAIAO DE DOIS - 18.09.2022.mp3"
-        }
-      ],
-      "idLista11": [
+        },
         {
           "idLista": 11,
           "titulo": "Acervo",
@@ -299,7 +283,7 @@
           "audio": "uploads/programs/22/edition/352/audio/1671533914_BAIAO DE DOIS - 18.09.2022.mp3"
         }
       ],
-      "idLista12": [
+      "indice3": [
         {
           "idLista": 12,
           "titulo": "Acervo",
@@ -327,9 +311,7 @@
           "descricao": "18/09/2022",
           "imagem": "https://ingest.educadorafm.ba.gov.br/upload/img/641e019675f75.png",
           "audio": "uploads/programs/22/edition/352/audio/1671533914_BAIAO DE DOIS - 18.09.2022.mp3"
-        }
-      ],
-      "idLista13": [
+        },
         {
           "idLista": 13,
           "titulo": "Acervo",
@@ -357,9 +339,7 @@
           "descricao": "18/09/2022",
           "imagem": "https://ingest.educadorafm.ba.gov.br/upload/img/641e019675f75.png",
           "audio": "uploads/programs/22/edition/352/audio/1671533914_BAIAO DE DOIS - 18.09.2022.mp3"
-        }
-      ],
-      "idLista14": [
+        },
         {
           "idLista": 14,
           "titulo": "Acervo",
@@ -387,9 +367,7 @@
           "descricao": "18/09/2022",
           "imagem": "https://ingest.educadorafm.ba.gov.br/upload/img/641e019675f75.png",
           "audio": "uploads/programs/22/edition/352/audio/1671533914_BAIAO DE DOIS - 18.09.2022.mp3"
-        }
-      ],
-      "idLista15": [
+        },
         {
           "idLista": 15,
           "titulo": "Acervo",
